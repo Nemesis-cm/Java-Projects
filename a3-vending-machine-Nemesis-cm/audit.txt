@@ -1,0 +1,8 @@
+2022-11-22T11:07:11.412275600 :  One Haribo removed
+2022-11-22T11:08:49.559002500 :  One Haribo removed
+2022-11-22T11:13:16.229163 :  One Doritos removed
+2022-11-28T10:23:05.652121800 :  One McCoys removed
+2022-11-28T10:24:45.815101900 :  One Crunch removed
+2022-11-28T10:50:15.960748600 :  One Twix removed
+2022-11-28T10:51:05.469301900 :  One Granola Bar removed
+2022-12-16T11:06:25.734487400 :  One Doritos removed
