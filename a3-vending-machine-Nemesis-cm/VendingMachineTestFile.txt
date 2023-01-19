@@ -1,0 +1,6 @@
+Twix::2.10::0
+Chips::2.00::18
+Crunch::1.60::9
+whoppers::2.10::7
+Starburst::1.05::17
+Granola bar::2.50::20

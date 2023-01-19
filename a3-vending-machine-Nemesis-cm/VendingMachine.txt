@@ -1,0 +1,8 @@
+Snickers::2.10::10
+Peanuts::1.30::17
+Twix::1.60::6
+Starburst::1.05::17
+Granola Bar::2.50::18
+Soda::2.10::18
+Crunch::1.50::16
+Doritos::3.50::19
